@@ -1,0 +1,16 @@
+div {text-align:center;
+		font-family: "Rounded Mplus 1c";}
+
+table {margin-left: auto;
+		margin-right: auto;}
+		
+h2 {font-family: "Rounded Mplus 1c";
+	margin-bottom: 50px;
+	text-align:center;}
+	
+h1 {font-family: "Rounded Mplus 1c";
+	padding-top:160px;}
+	
+h3{font-family: "Rounded Mplus 1c";}
+
+textarea {resize:none;}
